@@ -1,2 +1,17 @@
 # blog-comunidad
-Es un proyecto dedicado la crecimiento de la comunidad preuniversitaria a través de un blog de evento
+[Descripción del Proyecto]
+
+
+[Instalación]
+
+-Requisitos
+-Versión
+-Encargados del Proyecto
+
+[Uso]
+
+[Documentación]
+
+[Roadmap]
+
+[Licencia]
